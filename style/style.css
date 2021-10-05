@@ -1,0 +1,167 @@
+.logo {
+  width: 80px;
+  padding: 8px 0 0 5%;
+  clear: left;
+}
+nav {
+  font-family: "Century Gothic";
+  font-weight: 400;
+  padding: 10px;
+  border-bottom: 3px solid #076fa6;
+}
+
+.stock {
+  font-size: 20px;
+  color: #076fa6;
+  text-decoration: none;
+  float: right;
+  margin-top: 10px;
+}
+.stock:hover {
+  border-bottom: 2px #076fa6 solid;
+}
+.about {
+  float: right;
+  color: #076fa6;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px 50px 0 20px;
+}
+.about:hover {
+  border-bottom: 2px #076fa6 solid;
+}
+.home {
+  float: right;
+  color: #076fa6;
+  text-decoration: none;
+  border-bottom: 2px #076fa6 solid;
+  font-size: 20px;
+  margin: 10px 30px 0 20px;
+}
+
+.slogan {
+  color: #076fa6;
+  font-family: "Century Gothic";
+  clear: left;
+  border-bottom: 1px solid #076fa6;
+  padding-bottom: 50px;
+}
+.first {
+  font-weight: bolder;
+  margin: 5% 0 0 5%;
+  font-size: 70px;
+  line-height: 1.1;
+  width: 60%;
+}
+.second {
+  font-size: 35px;
+  line-height: 1.2;
+  margin: 0 5%;
+  width: 60%;
+}
+.delivery_img {
+  float: right;
+  width: 40%;
+  margin: 0 4% 5% 0;
+}
+.shop_btn {
+  font-family: "Century Gothic";
+  font-weight: bolder;
+  margin: 5% 0 0 5%;
+  padding: 13px 30px;
+  text-decoration: none;
+  border-radius: 8px;
+  background-color: #e7e72f;
+  color: #076fa6;
+  font-size: 21px;
+}
+.btn {
+  margin-top: 4%;
+}
+
+#second_body {
+  background-color: #fff;
+}
+.tecno {
+  width: 20%;
+  margin: 10% 0 5% 10%;
+}
+.infinix {
+  width: 20%;
+  margin: 0 0 5.5% 10%;
+}
+.samsung {
+  width: 25%;
+  margin: 6% 0 10% 20%;
+}
+.syinix {
+  width: 17%;
+  margin: 2% 0 3.5% 10%;
+}
+.accessory {
+  width: 10%;
+  margin: 0 0 7% 15%;
+}
+.aboutus {
+  font-size: 40px;
+}
+
+#about_us {
+  border-top: 1px solid #076fa6;
+  text-align: center;
+  font-family: "Century Gothic";
+  font-weight: bolder;
+  background-color: #076fa6;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: 100%;
+}
+.about_lists {
+  float: left;
+  text-align: left;
+  font-family: "Century Gothic";
+  margin: 0.4% 0 5% 5%;
+  width: 20%;
+}
+
+.about_list {
+  float: left;
+  text-align: left;
+  font-family: "Century Gothic";
+  margin: 0 0 5% 21%;
+  width: 25%;
+}
+.phone {
+  width: 10%;
+  float: left;
+  margin: 0 3% 0 0;
+}
+.loaction {
+  width: 7%;
+  float: left;
+  margin: 3% 3% 0 -1%;
+}
+.loc {
+  font-weight: normal;
+}
+.instagram {
+  width: 9.5%;
+  margin-left: 20px;
+}
+.facebook {
+  width: 5%;
+}
+.telegram {
+  width: 10%;
+  margin-left: 10px;
+}
+/* .body_bg {
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position-y: center;
+  background-size: cover;
+  background-image: linear-gradient(rgba(190, 190, 190, 0.123), #333);
+} */
